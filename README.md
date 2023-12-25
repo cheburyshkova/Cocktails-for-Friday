@@ -9,10 +9,13 @@ Data cleaning and pre-processing:
 Clustering
 
 ## Results 🔍
-Cluster 1: Products related to passenger electric elevators
-Cluster 2: Cosmetic products
-Cluster 3: Fruits and crop products
-Cluster 4: Battery related products, power supplies and batteries.
-Cluster 5: Household electrical appliances
-Cluster 6: Garments
-Cluster 7: Lighting fixtures
+- **Cluster 1:** Products related to passenger electric elevators
+- **Cluster 2:** Cosmetic products
+- **Cluster 3:** Fruits and crop products
+- **Cluster 4:** Battery related products, power supplies and batteries.
+- **Cluster 5:** Household electrical appliances
+- **Cluster 6:** Garments
+- **Cluster 7:** Lighting fixtures
+
+## 🍂 Fall 2023 Product Summary
+These clusters represent the main products supplied in the fall of 2023. Gain valuable insights into the seasonal trends and product distribution during this period.
